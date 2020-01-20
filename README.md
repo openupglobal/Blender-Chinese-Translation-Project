@@ -25,7 +25,10 @@ From 20th February to 16th April. Every Thursday Night 19:00-21:00.
 ---
 
 
-## Using the translation on your Blender / 將自己的 Blender 介面改成中文
+## Using the translation on your Blender / 將自己的 Blender 介面中文化
+
+[**Video / 影片教學**](https://www.youtube.com/watch?v=GOch_jZKPQU&feature=youtu.be)
+[![**Video / 影片教學**](https://i.imgur.com/swTCtqT.png)](https://www.youtube.com/watch?v=GOch_jZKPQU "how to translate blender in ubuntu")
 
 ### MacOS
 1. Download and install [Blender](https://www.blender.org/download/)
