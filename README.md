@@ -10,9 +10,9 @@ Open UP Global 和 A+A Space 共同合作發起 Blender 友善中文翻譯計畫
 
 **Time / 實體聚會時間**: 
 
-From mid of February to mid of April. Every Thursday Night 19:00-21:00.
+From 20th February to 16th April. Every Thursday Night 19:00-21:00.
 
-二月中旬到四月中旬，每週四晚上七點到九點。
+二月二十日到四月十六日，每週四晚上七點到九點。
 
 **Location / 地點**: 
 
@@ -20,3 +20,58 @@ From mid of February to mid of April. Every Thursday Night 19:00-21:00.
 
 **RSVP Link**: https://www.openup.global/projects/74fd1830-8483-434f-8fa7-f35dbae9c48f
 
+
+
+---
+
+
+## Using the translation on your Blender / 將自己的 Blender 介面改成中文
+
+### MacOS
+1. Download and install [Blender](https://www.blender.org/download/)
+   
+   下載並安裝 Blender
+1. Move Blender into Application folder
+   
+   將 Blender 移到「應用程式」
+1. Right-click on the Blender file and select "Show Package Contents"
+
+   對 Blender 按右鍵並選擇「顯示套件內容」
+1. Go to "⁨Contents⁩ ▸ ⁨Resources⁩ ▸ ⁨2.81⁩ ▸ ⁨datafiles⁩ ▸ ⁨locale⁩ ▸ ⁨zh_TW⁩ ▸ ⁨LC_MESSAGES⁩", and find "blender.mo"
+   
+   依照路徑「⁨Contents⁩ ▸ ⁨Resources⁩ ▸ ⁨2.81⁩ ▸ ⁨datafiles⁩ ▸ ⁨locale⁩ ▸ ⁨zh_TW⁩ ▸ ⁨LC_MESSAGES⁩」找到繁體中文翻譯檔案「blender.mo」
+1. Once you tanslated "zh_TW.po" and export a "blender.mo" file, you can replace the "blender.mo".
+   
+   當翻譯完成後，只要輸出成「blender.mo」，即可覆蓋原有的 blender.mo，Blender 將呈現更新後的翻譯
+
+### Windows
+1. Download and install [Blender](https://www.blender.org/download/)
+   
+   下載並安裝 Blender
+1. Go to "⁨C:\Program Files\Blender Foundation\Blender\2.80\datafiles\locale\zh_TW\LC_MESSAGES", and find "blender.mo"
+   
+   依照路徑「⁨C:\Program Files\Blender Foundation\Blender\2.80\datafiles\locale\zh_TW\LC_MESSAGES」找到繁體中文翻譯檔案「blender.mo」
+1. Once you tanslated "zh_TW.po" and export a "blender.mo" file, you can replace the "blender.mo".
+   
+   當翻譯完成後，只要輸出成「blender.mo」，即可覆蓋原有的 blender.mo，Blender 將呈現更新後的翻譯
+
+---
+## How to start / 如何開始翻譯
+
+Before starting to translate the zh_TW.po, you can download the blender.mo to check to latest translation version. Thanks to contributors, they have translated 80% of words and sentences. Based on their contribution, we have checked it as correct and updated it. Once you update the translation file, you can open your Blender and see the latest translation version.
+
+感謝過往翻譯貢獻者，讓我們能夠在一定基礎上進行翻譯專案。在翻譯開始之前，請先下載本專案的 blender.mo 並將該檔案按照上面的步驟覆蓋原本 Blender 的 blender.mo 檔來更新繁體中文翻譯。覆蓋原檔案後，再次打開 Blender 即可看到更新後的翻譯。
+
+We use a tool called [Poedit](https://poedit.net/), an editer to edit .po file.
+
+我們使用一個工具叫 [Poedit](https://poedit.net/)，它可以讓我們編輯 .po 檔，並且輸出成 .mo 檔讓程式可以讀取翻譯的字詞。
+
+
+
+### Notice ... / 需要注意...
+- Some words will not be translated.
+  
+  部分介面文字無法被翻譯，如 layour, modeling,...等等位於 Workspace 的名詞。
+- If you have any question about the translation, go to [**Issues**](https://github.com/openupglobal/Blender-Chinese-Translation-Project/issues) to find any related issue or submit a new issue.
+  
+  對翻譯有任何問題，請前往 [**Issues**](https://github.com/openupglobal/Blender-Chinese-Translation-Project/issues) 尋找相關的 issue 或開一個新的 issue。
