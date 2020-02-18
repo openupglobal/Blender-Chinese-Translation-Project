@@ -17,6 +17,7 @@ From 20th February to 16th April. Every Thursday Night 19:00-21:00.
 **Location / 地點**: 
 
 [A+A Space 共創共享空間](https://goo.gl/maps/Qs5z8ZT974N4SEiu6)
+(3/15之前在三創11樓)
 
 **RSVP Link**: https://www.openup.global/projects/74fd1830-8483-434f-8fa7-f35dbae9c48f
 
