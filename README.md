@@ -70,6 +70,9 @@ We use a tool called [Poedit](https://poedit.net/), an editer to edit .po file.
 
 我們使用一個工具叫 [Poedit](https://poedit.net/)，它可以讓我們編輯 .po 檔，並且輸出成 .mo 檔讓程式可以讀取翻譯的字詞。
 
+After the translation you did, welcome to pull request your translation to this project!
+完成一個階段翻譯後，歡迎發 PR 給我們!
+不知道怎麼發 PR(Pull Request) 嗎，來看[發 PR 教學](https://gitbook.tw/chapters/github/pull-request.html)，一起為專案貢獻吧！
 
 
 ### Notice ... / 需要注意...
