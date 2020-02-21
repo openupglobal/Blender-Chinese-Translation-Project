@@ -78,13 +78,15 @@ After the translation you did, welcome to pull request your translation to this 
 
 
 ### Notice ... / 需要注意...
-- The translation principle must meet the following two points:
+- The translation principle must meet the following three points:
    1. User friendly (easy to understand, so that people who do not understand English and 3D can use blender)
    2. All Chinese (all English to Chinese, so we should not discuss which should not be translated into Chinese)
-
-  翻譯原則必須符合以下兩點：
+   3. Translate the most commonly used interface first, don't go through some rarely used interface
+   
+  翻譯原則必須符合以下三點：
   1. 對使用者友善（淺顯易懂，讓不懂英文與3D的人可以使用blender)
   2. 全中文化（全部英文轉中文，所以不討論哪些不該翻成中文）
+  3. 以使用者最常用到的界面優先翻譯，不要去翻一些很少用到的界面
 - Some words will not be translated.
   
   部分介面文字無法被翻譯，如 layour, modeling,...等等位於 Workspace 的名詞。
