@@ -91,7 +91,7 @@ After the translation you did, welcome to pull request your translation to this 
   4. 以使用者最常用到的界面優先翻譯，不要去翻一些很少用到的界面
 - Some words will not be translated.
   
-  部分介面文字無法被翻譯，如 layour, modeling,...等等位於 Workspace 的名詞。
+  部分介面文字無法被翻譯，如 layout, modeling,...等等位於 Workspace 的名詞。
 - If you have any question about the translation, go to [**Issues**](https://github.com/openupglobal/Blender-Chinese-Translation-Project/issues) to find any related issue or submit a new issue.
   
   對翻譯有任何問題，請前往 [**Issues**](https://github.com/openupglobal/Blender-Chinese-Translation-Project/issues) 尋找相關的 issue 或開一個新的 issue。
