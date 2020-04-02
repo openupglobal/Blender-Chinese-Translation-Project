@@ -1,3 +1,17 @@
+# Blender友善中文介面0.1版出爐啦！
+
+檔案說明：
+
+1. 中英雙語介面 blender.mo
+2. 中文單語介面 /Monolingual/blender.mo
+
+如何使用：
+
+1. 按綠色按鈕選 Download ZIP 下載壓縮檔
+2. 解壓縮後將 blender.mo 取代下列路徑檔案...
+
+   （Blender安裝位置/2.8?/datafiles/locale/zh_TW/LC_MESSAGES/blender.mo）
+
 # Blender Chinese Translation Project
 # Blender 友善中文翻譯計畫
 ![](src/picture/blender.png)
