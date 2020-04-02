@@ -7,7 +7,7 @@
 
 如何使用：
 
-1. 按綠色按鈕選 Download ZIP 下載壓縮檔
+1. 按右上方綠色按鈕選 Download ZIP 下載壓縮檔
 2. 解壓縮後將 blender.mo 取代下列路徑檔案...
 
    （Blender安裝位置/2.8?/datafiles/locale/zh_TW/LC_MESSAGES/blender.mo）
