@@ -2,7 +2,7 @@
 
 檔案說明：
 
-1. 中英雙語介面 blender.mo
+1. 英中雙語介面 blender.mo
 2. 中文單語介面 /Monolingual/blender.mo
 
 如何使用：
